@@ -3,7 +3,7 @@
 ## 🎯 Project Goal
 
 The aim here was simple: **Understand the return on investment (ROI)** from traditional media channels like **TV, radio, and newspaper**, then offer a smarter way to allocate ad budgets using regression modeling and simulation.
----
+
 ## 🧠 What I Did
 
 - Cleaned and explored the advertising dataset (classic sales vs. spend example)
