@@ -14,10 +14,12 @@ This project uses advertising spend and sales data to estimate the relationship 
 
 ## Dataset
 
-**Dataset:** Advertising Dataset
-**Records:** 200 observations
-**Target Variable:** Sales
-**Media Channels:** TV, Radio, Newspaper
+- **Dataset:** Advertising Dataset
+- **Records:** 200 observations
+- **Target Variable:** Sales
+- **Media Channels:** TV, Radio, Newspaper
+
+The dataset contains advertising spend across three traditional media channels and corresponding product sales.
 
 The dataset contains advertising spend across three traditional media channels and corresponding product sales.
 
